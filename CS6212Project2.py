@@ -1,6 +1,6 @@
 import time
 import random
-import numpy as np
+
 
 def divide(points, p1, p2):#divide function of the algortihm
     if not points:
